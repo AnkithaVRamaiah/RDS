@@ -1,6 +1,5 @@
 # RDS
 ---
-
 ### **1. Introduction to RDS**
 #### What is Amazon RDS?
 Amazon RDS is a managed relational database service that automates common database administration tasks like scaling, backups, patching, and monitoring.
