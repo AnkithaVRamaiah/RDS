@@ -195,5 +195,3 @@ Enable database audit logs for security and compliance needs.
 1. Create an RDS instance using the **AWS Console** and CLI.
 2. Set up monitoring, backups, and failover mechanisms.
 3. Optimize costs and enable security features like encryption.
-
-This comprehensive understanding will help you articulate real-world examples and practical use cases during interviews.
